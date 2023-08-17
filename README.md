@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo de Aplicaciones WEB**
 
-- 📫 How to reach me **hhmanrique95@gmail.com**
+- 📫 Mi correo personal es: **hhmanrique95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
