@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm HAROL HERNEY MANRIQUE ARIZA</h1>
 <h3 align="center">Desarrollador en lenguaje C# nivel intermedio, conocimientos en HTML 5, CSS, uso del Framework Boostrack, PHP, experiencia en análisis y administración de plataformas web, soy Ingeniero de Sistemas graduado de la UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo de Aplicaciones WEB Full Stack**
+- 🌱 Actualmente estoy aprendiendo **Desarrollo de Aplicaciones WEB**
 
 - 📫 How to reach me **hhmanrique95@gmail.com**
 
